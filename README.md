@@ -15,13 +15,14 @@ oserpent is a command-line tool designed for pentesters to quickly identify rele
 - Python 3
 - Virtual environment (`venv`)
 - Libraries: `requests`, `pandas`, `colorama`, `spacy`, `scikit-learn`
+- Serper API Key (Free): https://serper.dev/
 
 ## Installation
 
 ### 1. **Clone the repository:**
 
 ```sh
-git clone https://github.com/yourusername/oserpent.git
+git clone https://github.com/ejooco/oserpent.git
 cd oserpent
 ```
 
