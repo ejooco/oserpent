@@ -1,0 +1,4 @@
+#!/bin/bash
+source /Users/eamonoconnor/dev/Tools/oserpent/.venv/bin/activate
+python3 /Users/eamonoconnor/dev/Tools/oserpent/oserpent.py "$@"
+deactivate
